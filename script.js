@@ -2,7 +2,7 @@ var quotes = [{
   author: "(Gn 12:1-3)",
   quote: "Então o Senhor disse a Abrão: “Saia da sua terra, do meio dos seus parentes e da casa de seu pai, e vá para a terra que eu lhe mostrarei. “Farei de você um grande povo, e o abençoarei. Tornarei famoso o seu nome, e você será uma bênção. Abençoarei os que o abençoarem e amaldiçoarei os que o amaldiçoarem; e por meio de você todos os povos da terra serão abençoados”."
 }, {
-  author: "(Gn 22:18)",
+  author: "(Gn 22:17-18)",
   quote: "E, por meio dela, todos os povos da terra serão abençoados, porque você me obedeceu."
 }, {
   author: "(Ex 23:25)",
