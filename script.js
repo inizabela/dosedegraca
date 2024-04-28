@@ -8,6 +8,9 @@ var quotes = [{
   author: "(Ex 23:25)",
   quote: "Prestem culto ao Senhor, o Deus de vocês, e ele os abençoará, dando-lhes alimento e água. Tirarei a doença do meio de vocês"
 }, {
+  author: "(Ex 23:25)",
+  quote: "TESTANDO"
+}, {
   author: "(Dt 28:8)",
   quote: "O Senhor enviará bênçãos aos seus celeiros e a tudo o que as suas mãos fizerem. O Senhor, o seu Deus, os abençoará na terra que lhes dá."
 }];
